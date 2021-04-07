@@ -1,3 +1,7 @@
 chuẩn bị merge 2 nhánh
+<<<<<<< .merge_file_a12556
 hello các bạn
 hutech
+=======
+sửa file
+>>>>>>> .merge_file_a17480
