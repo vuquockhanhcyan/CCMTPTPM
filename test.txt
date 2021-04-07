@@ -1,3 +1,4 @@
 chuẩn bị merge 2 nhánh
 sửa file
 hello
+conflict cho ma coi
